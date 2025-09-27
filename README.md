@@ -9,9 +9,9 @@ The dashboard enables executives, managers, and sales representatives to monitor
 
 ~Users can:
 
-Track total and yearly sales by country, region, and salesperson.
+a) Track total and yearly sales by country, region, and salesperson.
 
-~ Drill down to individual salesperson dashboards to evaluate product categories, top customers, and cumulative monthly trends.
+b) Drill down to individual salesperson dashboards to evaluate product categories, top customers, and cumulative monthly trends.
 <br>
 <br>
 
@@ -34,7 +34,8 @@ Track total and yearly sales by country, region, and salesperson.
 ~ Local Excel files stored on the developer’s desktop containing Adventure Works sales data.
 
 
-**✨ Features & Highlights**
+## ✨ Features & Highlights
+<br>
 <br>
 **❓ Problem Statement**
 
