@@ -102,6 +102,8 @@ c) Provide dynamic visuals and conditional logic to highlight key trends and KPI
 • Drillthrough: Click the “Go to Salesperson dashboard” button to open a dedicated page for the selected employee.
 
 • Dynamic Measures: DAX calculations drive year-to-date totals, previous-year comparisons, and performance indicators.
+
+• To view and actively interact with this report and its visuals, visit: https://app.powerbi.com/reportEmbed?reportId=166e0014-5cb5-49dd-a34b-7aee69387943&autoAuth=true&ctid=caa4981b-943c-4a75-8eba-b283ba5fbc18
 <br>
 <br>
 
