@@ -37,7 +37,7 @@ b) Drill down to individual salesperson dashboards to evaluate product categorie
 ## ✨ Features & Highlights
 <br>
 <br>
-**❓ Problem Statement**
+❓**Problem Statement**
 
 ~ Adventure Works leadership needed a single interactive dashboard to:
 
@@ -46,7 +46,7 @@ b) Drill down to individual salesperson dashboards to evaluate product categorie
 2. Provide role-based insights for executives, managers, and sales reps.
 
 3. Allow a detailed view of individual salesperson performance.
-<br
+     <br>
    <br>
 
 
